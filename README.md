@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-initials-fix-error-in-transforming-type
 
-## Text
+## We have simple script. Ask user name and age and we calculate, have user 30 through 5 years. But it have error, please, fix it
 
 ## Criteria:
 
